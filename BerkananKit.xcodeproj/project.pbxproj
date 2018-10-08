@@ -103,6 +103,7 @@
 		2DF29AD020A2CE890047313A /* BerkananError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerkananError.swift; sourceTree = "<group>"; };
 		2DF29AD220A2D9A60047313A /* BerkananCryptoTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BerkananCryptoTests.swift; sourceTree = "<group>"; };
 		2DF29AD620A2E7950047313A /* Berkanan+PDU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Berkanan+PDU.swift"; sourceTree = "<group>"; };
+		2DF6A8B9216B78C40087F2D1 /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		2DF9129C20A5804600D29460 /* BerkananPublicKeyCharacteristic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerkananPublicKeyCharacteristic.swift; sourceTree = "<group>"; };
 		2DF9129E20A5829200D29460 /* BerkananL2CAPPSMCharacteristic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerkananL2CAPPSMCharacteristic.swift; sourceTree = "<group>"; };
 		2DF912A120A5B45E00D29460 /* BerkananControlMessageCharacteristic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BerkananControlMessageCharacteristic.swift; sourceTree = "<group>"; };
@@ -303,6 +304,7 @@
 				"en-GB",
 				"en-AU",
 				"en-CA",
+				"fr-CA",
 			);
 			mainGroup = 2DF29A9920A2CAFC0047313A;
 			productRefGroup = 2DF29AA420A2CAFC0047313A /* Products */;
@@ -420,6 +422,7 @@
 				2D940F6D213EDC960002A2CB /* en-GB */,
 				2D940F82213EF3640002A2CB /* en-AU */,
 				2D940F91213EFDD50002A2CB /* en-CA */,
+				2DF6A8B9216B78C40087F2D1 /* fr-CA */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
