@@ -2,6 +2,10 @@
 
 [![Travis CI](https://travis-ci.org/zssz/BerkananKit.svg?branch=master)](https://travis-ci.org/zssz/BerkananKit) [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://developer.apple.com/ios) [![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://developer.apple.com/swift) [![Language](https://img.shields.io/badge/language-Objective--C-blue.svg)](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC) [![Documented](https://img.shields.io/badge/documented-%E2%9C%93-brightgreen.svg)]() [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE.txt)
 
+## Update 2019.09.30
+
+Starting with version 2.0 Berkanan does not depend on this anymore. To see how cryptography is implemented in Berkanan 2.0, check out [BerkananCrypto](https://github.com/zssz/BerkananCrypto).
+
 This open-source software is part of the iOS app [Berkanan](http://berkanan.chat). With Berkanan app, you can send public and end-to-end encrypted private messages to nearby users using Bluetooth without the need to register for an account. An app like this could be useful at events (e.g., festivals, sports, protests), for message walls or even on an ✈️ for asking nearby users what movie to watch.
 
 `BerkananKit` allows you to take a look at the inner workings of [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) communication in Berkanan app, specifically:
